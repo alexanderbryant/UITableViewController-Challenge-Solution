@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ABTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Alex Bryant on 2/26/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ABTableViewController : UITableViewController
 
 @end
-
